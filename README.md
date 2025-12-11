@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Bagas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Jasa%20Tukang%20Pijet&descAlignY=55&descSize=20" width="100%"/>
 
-### 🎨 SMK 8 Surabaya | Desain Komunikasi Visual
+### 🎨 SMK 50 Surabaya | Desain Komunikasi Visual
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Bagas**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 8 Surabaya. 
+Halo! Saya **Bagas**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 50 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
@@ -23,7 +23,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 - 🌱 Sedang belajar: Motion Graphics & UI/UX Design
 - 📍 Lokasi: Surabaya, Jawa Timur
 - 🎯 Goal: Menjadi desainer profesional dan membangun portofolio yang keren!
-- ⚡ Hobi: Desain, ilustrasi, push mobile legend sampai pagi, dan eksplorasi trend design terbaru
+- ⚡ Hobi: Push mobile legend sampai pagi
 
 ---
 
